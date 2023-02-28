@@ -1,0 +1,83 @@
+{
+  "ack": true,
+  "returnCode": "E_DT_000000000",
+  "returnDesc": "成功",
+  "returnContent": {
+    "result": [
+        {
+            "accountId": "5c51e023a44c4f958bcf245cde30be47",
+            "companyId": "f26a0dddcf3745b8a6bd888bca2a3acc",
+            "companyCFID": "403742d79a8140eabb7b1f0d400dd0fc",
+            "mobilePhone": "13522293623",
+            "legalPerson": "会 会",
+            "companyName": "zoe科技有限公司",
+            "companyType": null,
+            "ownerDtp": null,
+            "overallStatus": "1",
+            "companyStatus": "0"
+        },
+        {
+            "accountId": "5c51e023a44c4f958bcf245cde30be47",
+            "companyId": "f26a0dddcf3745b8a6bd888bca2a3acc",
+            "companyCFID": "403742d79a8140eabb7b1f0d400dd0fc",
+            "mobilePhone": "13522293623",
+            "legalPerson": "会 会",
+            "companyName": "zoe科技有限公司",
+            "companyType": null,
+            "ownerDtp": null,
+            "overallStatus": "1",
+            "companyStatus": "0"
+        },
+        {
+            "accountId": "5c51e023a44c4f958bcf245cde30be47",
+            "companyId": "f26a0dddcf3745b8a6bd888bca2a3acc",
+            "companyCFID": "403742d79a8140eabb7b1f0d400dd0fc",
+            "mobilePhone": "13522293623",
+            "legalPerson": "会 会",
+            "companyName": "zoe科技有限公司",
+            "companyType": null,
+            "ownerDtp": null,
+            "overallStatus": "1",
+            "companyStatus": "0"
+        },
+        {
+            "accountId": "5c51e023a44c4f958bcf245cde30be47",
+            "companyId": "f26a0dddcf3745b8a6bd888bca2a3acc",
+            "companyCFID": "403742d79a8140eabb7b1f0d400dd0fc",
+            "mobilePhone": "13522293623",
+            "legalPerson": "会 会",
+            "companyName": "zoe科技有限公司",
+            "companyType": null,
+            "ownerDtp": null,
+            "overallStatus": "1",
+            "companyStatus": "0"
+        },
+        {
+            "accountId": "5c51e023a44c4f958bcf245cde30be47",
+            "companyId": "f26a0dddcf3745b8a6bd888bca2a3acc",
+            "companyCFID": "403742d79a8140eabb7b1f0d400dd0fc",
+            "mobilePhone": "13522293623",
+            "legalPerson": "会 会",
+            "companyName": "zoe科技有限公司",
+            "companyType": null,
+            "ownerDtp": null,
+            "overallStatus": "1",
+            "companyStatus": "0"
+        }
+    ],
+    "pageResultBean": {
+        "pageSize": 10,
+        "page": 1,
+        "pageCount": 6,
+        "recordCount": 53,
+        "hasPreviousPage": false,
+        "hasNextPage": true,
+        "endNo": 10,
+        "prePageNo": 0,
+        "nextPageNo": 2,
+        "startNo": 1,
+        "countMessage": "共<strong>53</strong>条记录"
+    },
+    "pages": null
+  }
+}
